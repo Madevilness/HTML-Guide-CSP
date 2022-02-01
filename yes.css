@@ -1,0 +1,38 @@
+/* You found the CSS document! CSS is used for customization for multiple elements of a webpage. */
+
+/* In this case, the following is an external document the browser reads as a reference to how we display information */
+
+/* General format 
+selector {
+    property: value;
+    property: value;
+}
+*/
+
+body {
+    background-color: black;
+    font-family: Arial;
+    color: white;
+}
+
+p {
+    margin: 10px 20px 10px 20px;
+}
+
+h1 {
+    background-color: #484141;
+    margin: auto
+}
+
+a {
+    color: #b2f1f5;
+}
+
+i {
+    color: #f57575;
+}
+
+img src {
+    text-align: center;
+}
+}
